@@ -24,7 +24,7 @@ namespace TextProcessingProgram
             }
 
             List<string> mobileNumberExtraction = ExtractMobileNumbers(inputText);
-            Console.WriteLine("\n Mobile Numbers Count: "+mobileNumberExtraction.Count);
+            Console.WriteLine("\nMobile Numbers Count: "+mobileNumberExtraction.Count);
             Console.WriteLine("\nMobile Number(s):");
             foreach (var mobNum in mobileNumberExtraction)
             {
@@ -34,6 +34,7 @@ namespace TextProcessingProgram
            Console.WriteLine("\nInput any custom regular expression:");  //custom regular expression \b[a-z]+\b
             string customRegexPattern = Console.ReadLine();
             List<string> customRegex = PerformCustomRegexSearch(inputText, customRegexPattern);
+            Console.WriteLine("\nCustom Regex Count: " + customRegex.Count);
             Console.WriteLine("\nCustom Regex Match:");
             foreach (var custom in customRegex)
             {
