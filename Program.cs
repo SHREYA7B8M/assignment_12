@@ -16,16 +16,16 @@ namespace TextProcessingProgram
             Console.WriteLine($"\nWord Count of text/para: {wordCount}");
 
             List<string> emailValidation = ExtractEmailAddresses(inputText);
-            Console.WriteLine("Email Address(es):");
             Console.WriteLine("\nEmail Address Count: " +emailValidation.Count);
+            Console.WriteLine("Email Address(es):");
             foreach (var email in emailValidation)
             {
                 Console.WriteLine(email);
             }
 
             List<string> mobileNumberExtraction = ExtractMobileNumbers(inputText);
-            Console.WriteLine("\nMobile Number(s):");
             Console.WriteLine("\n Mobile Numbers Count: "+mobileNumberExtraction.Count);
+            Console.WriteLine("\nMobile Number(s):");
             foreach (var mobNum in mobileNumberExtraction)
             {
                 Console.WriteLine(mobNum);
