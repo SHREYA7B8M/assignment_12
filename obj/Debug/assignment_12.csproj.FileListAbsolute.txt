@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Day_10\assignment_12\assignment_12\bin\Debug\assignment_12.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Day_10\assignment_12\assignment_12\bin\Debug\assignment_12.exe
+C:\Users\KIIT\Desktop\Git Exercise\Day_10\assignment_12\assignment_12\bin\Debug\assignment_12.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Day_10\assignment_12\assignment_12\obj\Debug\assignment_12.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_10\assignment_12\assignment_12\obj\Debug\assignment_12.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_10\assignment_12\assignment_12\obj\Debug\assignment_12.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_10\assignment_12\assignment_12\obj\Debug\assignment_12.exe
+C:\Users\KIIT\Desktop\Git Exercise\Day_10\assignment_12\assignment_12\obj\Debug\assignment_12.pdb
